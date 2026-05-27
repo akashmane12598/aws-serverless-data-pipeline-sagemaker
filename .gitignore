@@ -1,0 +1,41 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+.terraform.lock.hcl
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Sensitive files
+*.pem
+*.key
+*.crt
+*.env
+.env
+application-secret.properties
+
+# Maven / Spring Boot
+target/
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+.springBeans
+.sts4-cache/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
