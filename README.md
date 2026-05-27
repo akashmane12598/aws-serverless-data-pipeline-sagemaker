@@ -46,7 +46,7 @@ SageMaker Endpoint
 
 
 
-### AWS Services Used
+## AWS Services Used
 
 * **Terraform** for Infrastructure as Code
 * **API Gateway** for public API access
@@ -61,7 +61,7 @@ SageMaker Endpoint
 * **AWS Glue** for ETL processing
 * **SageMaker** for model training and deployment
 
-### Main Features
+## Main Features
 
 * Infrastructure provisioned using Terraform modules
 * Secured API Gateway endpoint using Cognito
