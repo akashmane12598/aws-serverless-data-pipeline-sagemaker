@@ -48,7 +48,7 @@ SageMaker Endpoint
 
 ### AWS Services Used
 
-* **Terraform** for Infrastructure as Code
+ **Terraform** for Infrastructure as Code
 * **API Gateway** for public API access
 * **AWS Lambda** for serverless API testing
 * **AWS Cognito** for authentication
