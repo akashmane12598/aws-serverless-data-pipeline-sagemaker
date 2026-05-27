@@ -48,18 +48,18 @@ SageMaker Endpoint
 
 ### AWS Services Used
 
- **Terraform** for Infrastructure as Code
-* **API Gateway** for public API access
-* **AWS Lambda** for serverless API testing
-* **AWS Cognito** for authentication
-* **VPC, Subnets, NACLs, and Security Groups** for networking
-* **EC2** for hosting the Spring Boot application
-* **Internal Application Load Balancer** for private backend routing
-* **S3** for file storage, Glue scripts, SageMaker scripts, and model artifacts
-* **EventBridge** for triggering workflows on S3 upload
-* **Step Functions** for orchestration
-* **AWS Glue** for ETL processing
-* **SageMaker** for model training and deployment
+* Terraform for Infrastructure as Code
+* API Gateway for public API access
+* AWS Lambda for serverless API testing
+* AWS Cognito for authentication
+* VPC, Subnets, NACLs, and Security Groups** for networking
+* EC2 for hosting the Spring Boot application
+* Internal Application Load Balancer** for private backend routing
+* S3 for file storage, Glue scripts, SageMaker scripts, and model artifacts
+* EventBridge for triggering workflows on S3 upload
+* Step Functions for orchestration
+* AWS Glue for ETL processing
+* SageMaker for model training and deployment
 
 ### Main Features
 
