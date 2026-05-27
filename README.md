@@ -43,7 +43,7 @@ SageMaker Training Job
     |
     v
 SageMaker Endpoint
-
+```
 
 ## AWS Services Used
 
